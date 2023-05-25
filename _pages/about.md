@@ -21,7 +21,7 @@ On our blog, you'll find a wealth of travel inspiration, practical advice, and e
 Join our vibrant travel community and stay updated with our latest content. Follow us on social media and subscribe to our YouTube channel for short travel videos that will transport you to incredible destinations.
 
 - YouTube: [WanderingClub](https://www.youtube.com/@TheWanderingClub){:target="_blank"}
-- Instagram: [WanderingClub](https://www.instagram.com/TheWand3ringClub){:target="_blank"}
+- Instagram: [WanderingClub](https://www.instagram.com/thewand3ringclub){:target="_blank"}
 - Facebook: [WanderingClub](https://www.facebook.com/TheWand3ringClub){:target="_blank"}
 
 ### Contact Us

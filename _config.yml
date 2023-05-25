@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: ''
-disqus: 'thewand3ringclub'
+disqus: 'thewanderingclub'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -17,9 +17,9 @@ authors:
     name: Tejaa
     display_name: Tejaa
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email:
-    web: https://www.instagram.com/TheWand3ringClub/
-    twitter: https://www.instagram.com/TheWand3ringClub/
+    email: ''
+    web: ''
+    twitter: https://www.instagram.com/thewand3ringclub/
     description: "A passionate travel enthusiast and blogger with a deep love for exploring new destinations and immersing in diverse cultures."
   john:
     name: John
