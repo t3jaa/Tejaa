@@ -1,35 +1,31 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
-comments: true
+title: About
+permalink: /about/
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+## Welcome to Our Travel Blog!
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+We are a passionate team of travel enthusiasts who believe in the power of exploration and discovery. Our goal is to inspire and guide fellow travelers through captivating stories, helpful tips, and insightful resources.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+### Our Mission
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+At WanderingClub, our mission is to ignite the spirit of wanderlust and encourage people to embark on transformative journeys. We believe that travel has the ability to broaden perspectives, foster connections, and create meaningful experiences that last a lifetime.
 
-<h4>Questions or bug reports?</h4>
+### What You'll Find Here
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+On our blog, you'll find a wealth of travel inspiration, practical advice, and engaging stories from around the world. Whether you're a seasoned traveler or just starting to plan your next adventure, we have something for everyone. From destination guides and travel tips to cultural insights and hidden gems, we aim to provide valuable information to enhance your travel experiences.
 
-</div>
+### Connect with Us
 
-<div class="col-md-4">
+Join our vibrant travel community and stay updated with our latest content. Follow us on social media and subscribe to our YouTube channel for short travel videos that will transport you to incredible destinations.
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+- YouTube: [WanderingClub](https://www.youtube.com/@TheWanderingClub){:target="_blank"}
+- Instagram: [WanderingClub](https://www.instagram.com/TheWand3ringClub){:target="_blank"}
+- Facebook: [WanderingClub](https://www.facebook.com/TheWand3ringClub){:target="_blank"}
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+### Contact Us
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+If you have any questions, feedback, or collaboration opportunities, we'd love to hear from you. Please feel free to reach out to us through our contact form or email. We're here to assist and inspire you on your travel adventures.
 
-</div>
-</div>
-</div>
+Thank you for visiting our blog, and we hope you find inspiration and valuable resources for your next journey!
