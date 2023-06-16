@@ -54,6 +54,6 @@ Escape to the peaceful sanctuary of Arboretum de Versailles in France. Explore t
 Indulge in the serenity of Shinjuku Gyoen National Garden in the heart of bustling Tokyo, Japan. Wander through traditional Japanese gardens, witness cherry blossoms in spring, and find solace amidst the urban chaos. Have you ever experienced the Zen atmosphere of Shinjuku Gyoen?
 
 ---
-
+ 
 Now it's your turn, dear readers! Which secret garden captivated your imagination the most? Have you had the privilege of visiting any of these enchanting botanical paradises? Share your stories and let's celebrate the breathtaking beauty of these hidden gems!
 
