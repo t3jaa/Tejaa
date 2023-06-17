@@ -69,10 +69,4 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-# Don't include site verification file(for google) in the sitemap
-- scope:
-    path:            googleab31790ab860da45.html
-  values:
-    sitemap:         false
-
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
