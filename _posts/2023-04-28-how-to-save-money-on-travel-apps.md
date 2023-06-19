@@ -6,8 +6,8 @@ categories: [Travel, Budgeting, Apps]
 tags: [travel tips, money-saving, apps]
 image: assets/images/how-to-save-money-on-travel-apps.jpg
 description: "Discover the important apps that can help you save money on travel and make your budget go further."
-meta-description: "Discover the important apps that can help you save money on travel and make your budget go further."
 ---
+
 Traveling is an incredible experience that allows you to explore new places, immerse yourself in different cultures, and create lifelong memories. However, it's no secret that travel expenses can add up quickly. Luckily, with the help of technology and the right apps, you can save money and make your travel budget stretch further than ever before. In this article, we will introduce you to some important apps that can help you save money on your next adventure.
 
 ## 1. Skyscanner

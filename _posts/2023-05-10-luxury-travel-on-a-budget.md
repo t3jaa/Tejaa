@@ -6,7 +6,6 @@ categories: [Travel]
 tags: [luxury travel, budget travel, travel tips]
 image: assets/images/luxury-travel.jpg
 description: "Discover 10 valuable tips to experience luxury travel on a budget. Learn how to enjoy the high life without breaking the bank."
-meta-description: "Discover 10 valuable tips to experience luxury travel on a budget. Learn how to enjoy the high life without breaking the bank."
 ---
 
 Have you ever dreamed of indulging in luxury travel experiences without emptying your bank account? It may seem like an impossible dream, but with the right strategies, you can experience the high life without breaking the bank. In this article, we'll share 10 valuable tips to help you enjoy luxury travel on a budget.

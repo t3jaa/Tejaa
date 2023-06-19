@@ -6,7 +6,6 @@ categories: [Travel]
 tags: [travel tips, travel hacks, ultimate guide]
 image: assets/images/unveiling-the-secrets-of-ultimate-travel-hacks.jpg
 description: "Discover the hidden secrets of ultimate travel hacks that will transform your trips into extraordinary adventures. Learn insider tips and tricks to travel like a pro and make the most of your wanderlust."
-meta-description: "Discover the hidden secrets of ultimate travel hacks that will transform your trips into extraordinary adventures. Learn insider tips and tricks to travel like a pro and make the most of your wanderlust."
 ---
 
 ## Introduction

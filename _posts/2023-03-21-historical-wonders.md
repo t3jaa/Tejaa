@@ -6,7 +6,6 @@ categories: [Travel]
 tags: [historical wonders, ancient civilizations, archaeological sites]
 image: assets/images/historical-wonders.jpg
 description: "Embark on a journey through time as we unveil the secrets of ancient civilizations and explore the remarkable historical wonders they left behind. From towering pyramids to majestic temples, these archaeological sites offer a glimpse into the ingenuity and achievements of our ancestors."
-meta-description: "Embark on a journey through time as we unveil the secrets of ancient civilizations and explore the remarkable historical wonders they left behind. From towering pyramids to majestic temples, these archaeological sites offer a glimpse into the ingenuity and achievements of our ancestors."
 featured: true
 hidden: true
 ---

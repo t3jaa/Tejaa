@@ -6,7 +6,6 @@ categories: [Travel]
 tags: [road trip, scenic drives, travel routes]
 image: assets/images/road-tripping.jpg
 description: "Embark on an unforgettable road trip adventure as we take you on a journey through the world's most scenic drives and routes. From breathtaking coastal roads to winding mountain passes, these routes offer awe-inspiring views and endless exploration."
-meta-description: "Embark on an unforgettable road trip adventure as we take you on a journey through the world's most scenic drives and routes. From breathtaking coastal roads to winding mountain passes, these routes offer awe-inspiring views and endless exploration."
 ---
 
 ## Introduction

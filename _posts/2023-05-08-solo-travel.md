@@ -6,7 +6,6 @@ categories: [Travel]
 tags: [solo travel, independence, self-discovery]
 image: assets/images/solo-travel.jpg
 description: "Embark on a solo travel journey and unlock the power of independence and self-discovery. Discover the joys, challenges, and transformative experiences of traveling alone."
-meta-description: "Embark on a solo travel journey and unlock the power of independence and self-discovery. Discover the joys, challenges, and transformative experiences of traveling alone."
 ---
 
 ## Introduction

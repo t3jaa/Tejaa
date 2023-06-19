@@ -6,7 +6,6 @@ categories: [Food]
 tags: [food festivals, global cuisine, culinary events]
 image: assets/images/food-festivals.jpg
 description: "Immerse yourself in a world of flavors at food festivals around the globe. Discover delicious celebrations that showcase the best of local and international cuisine."
-meta-description: "Immerse yourself in a world of flavors at food festivals around the globe. Discover delicious celebrations that showcase the best of local and international cuisine."
 ---
 
 Calling all food enthusiasts and culinary adventurers! Get ready to embark on a mouthwatering journey as we explore food festivals around the globe. These vibrant and delicious celebrations bring together the best of local and international cuisine, offering a feast for the senses. From savoring unique dishes to experiencing diverse culinary traditions, these festivals are a must-visit for any food lover.

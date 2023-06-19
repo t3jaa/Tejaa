@@ -6,7 +6,6 @@ categories: [Food]
 tags: [food, spicy dishes, global cuisine]
 image: assets/images/spiciest-dishes.jpg
 description: "Prepare your taste buds for a fiery adventure! Explore 10 of the spiciest dishes from around the world and test your tolerance for heat."
-meta-description: "Prepare your taste buds for a fiery adventure! Explore 10 of the spiciest dishes from around the world and test your tolerance for heat."
 ---
 
 Are you a thrill-seeking food lover who enjoys the burn of spicy food? If so, get ready for the ultimate food challenge as we take you on a journey to discover the spiciest dishes from around the world. These tongue-tingling creations are not for the faint of heart but are sure to satisfy your craving for heat. Prepare your taste buds for a fiery adventure!

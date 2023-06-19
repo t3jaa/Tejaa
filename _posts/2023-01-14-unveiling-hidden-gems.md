@@ -6,7 +6,6 @@ categories: [Travel]
 tags: [Hidden Gems, Offbeat Travel, Adventure]
 image: assets/images/unveiling-hidden-gems.jpg
 description: "Uncover the hidden gems of the world with our ultimate guide to offbeat travel destinations. From secluded islands to untouched wilderness, get ready for a thrilling adventure."
-meta-escription: "Uncover the hidden gems of the world with our ultimate guide to offbeat travel destinations. From secluded islands to untouched wilderness, get ready for a thrilling adventure."
 ---
 
 ## Introduction

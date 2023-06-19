@@ -6,7 +6,6 @@ author: Tejaa
 tags: [Travel, Bucket List, Adventure]
 image: assets/images/travel-bucket-list.jpg
 description: "Embark on the ultimate travel adventure with our curated list of 10 must-have experiences around the world. From iconic landmarks to hidden gems, these destinations and activities will create memories to last a lifetime."
-meta-description: "Embark on the ultimate travel adventure with our curated list of 10 must-have experiences around the world. From iconic landmarks to hidden gems, these destinations and activities will create memories to last a lifetime."
 ---
 
 ## Introduction

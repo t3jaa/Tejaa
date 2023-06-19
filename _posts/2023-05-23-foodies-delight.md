@@ -6,7 +6,6 @@ categories: [Food]
 tags: [food, travel, local cuisine]
 image: assets/images/foodies-delight.jpg
 description: "Discover 10 cities around the world that offer a culinary adventure with their mouthwatering local cuisines. Get ready to indulge in a foodie's paradise!"
-meta-description: "Discover 10 cities around the world that offer a culinary adventure with their mouthwatering local cuisines. Get ready to indulge in a foodie's paradise!"
 ---
 
 Are you a passionate foodie looking to embark on a gastronomic adventure? If so, we've got you covered with a list of 10 cities that will tantalize your taste buds and satisfy your cravings. From street food delights to Michelin-starred restaurants, these cities are known for their mouthwatering local cuisines. Get ready to indulge in a foodie's paradise!
