@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Reviving Legends: Exploring Mythical Sites and Folklore Around the World"
+title: "Unveiling Mythical Sites & Folklore Secrets"
 author: Tejaa
 categories: [Travel, Mythology]
 tags: [mythical sites, folklore, legends, cultural heritage]
 image: assets/images/mythical-sites-folklore.jpg
-description: "Embark on a journey of wonder and enchantment as we delve into the rich tapestry of mythical sites and folklore from around the world. Discover ancient legends, mystical places, and the enduring power of storytelling that continues to captivate our imagination."
+description: "Discover the hidden wonders of ancient legends and mystical sites worldwide. Dive into captivating folklore as we unveil their secrets and enchantment."
 ---
 
 Welcome, fellow adventurers, to a world where reality and myth intertwine, where legends echo through the ages, and where folklore weaves tales of wonder and enchantment. Today, we embark on a captivating journey, as we unravel the mysteries of mythical sites and delve into the realms of folklore from different corners of the globe.
