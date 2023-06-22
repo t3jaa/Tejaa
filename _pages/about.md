@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: "Welcome to WanderingClub! Discover inspiring travel stories, practical tips, and cultural insights. Join our community, ignite your wanderlust!"
 ---
 
 ## Welcome to Our Travel Blog!
