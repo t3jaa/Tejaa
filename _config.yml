@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-webp
     
 # Archives
 jekyll-archives:
@@ -67,6 +68,17 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, googleab31790ab860da45.html]
+
+# Site configuration for the WebP Generator Plugin
+webp:
+  enabled: true
+  quality: 75
+  img_dir: ["assets/images"]
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+  gifs: [".gif"]
+  regenerate: false
+  webp_path: nil
+  append_ext: false
