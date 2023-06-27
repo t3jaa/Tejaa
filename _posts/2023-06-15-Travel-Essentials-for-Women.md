@@ -22,7 +22,7 @@ In addition to weather considerations, it's also important to research the cultu
 
 When it comes to packing clothes for your trip, versatility is key. Pick pieces that can be combined to create different looks. Opt for neutral colors like black, white, and beige as they are easy to pair with other pieces. Pack a combination of tops, bottoms, and dresses that can be dressed up or down depending on the occasion. A classic little black dress is a must-have, as it can be styled in countless ways.
 
-{% include figure.html url="Essential clothing items for women travelers packed in a suitcase." %}
+{% include figure.html url="clothing_essentials.jpg" alt="Essential clothing items for women travelers packed in a suitcase." %}
 
 In terms of bottoms, pack a pair of jeans that are comfortable and can be worn with different tops. Leggings or yoga pants are also great for travel days or when you want to be comfortable while exploring. Don't forget to pack a few lightweight, breathable tops that can be layered or worn on their own. A couple of versatile blouses or shirts can elevate your outfit and make you look put together.
 
