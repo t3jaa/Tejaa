@@ -21,15 +21,14 @@ authors:
     web: ''
     twitter: https://www.instagram.com/thewand3ringclub/
     description: "A passionate travel enthusiast and blogger with a deep love for exploring new destinations and immersing in diverse cultures."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+  Clara:
+    name: Clara
+    display_name: Clara R
+    gravatar: bf92b97b26821c847dfbf3b02b6c9c26
     email: ''
     web: ''
-    twitter: ''
-    description: "I am a Dummy Author"
+    twitter: https://www.instagram.com/thewand3ringclub/
+    description: "Adventure seeker and travel aficionado, Clara is on a mission to uncover the beauty of the world, one destination at a time."
 
 # Plugins
 plugins:
@@ -76,7 +75,7 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, googleab3
 webp:
   enabled: true
   quality: 75
-  img_dir: ["assets/images"]
+  img_dir: ["assets/images/inside"]
   formats: [".jpeg", ".jpg", ".png", ".tiff"]
   gifs: [".gif"]
   regenerate: false

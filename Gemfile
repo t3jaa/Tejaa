@@ -6,7 +6,7 @@ gem 'jekyll', '4.3.2'
 # To stage all changes at once in Git use: git add .
 # After staging the changes, ymake commit using: git commit 'Comment'
 #     bundle exec jekyll serve
-#
+# Use this for images: {% include figure.html url="image.jpg" alt="Image alt text." caption="Caption text" %}
 
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
