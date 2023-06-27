@@ -11,10 +11,10 @@ It’s in your _site folder.
 
   <picture>
     <!-- Use the webp file -->
-    <source srcset="/assets/images/inside/{{ webp_filename }}" type="image/webp">
+    <source srcset="/assets/images/{{ page.slug }}/{{ webp_filename }}" type="image/webp">
 
     <!-- Fallback to the file you added -->
-    <img src="/assets/images/inside/{{ include.url }}" alt="{{ include.alt }}">
+    <img src="/assets/images/{{ page.slug }}/{{ include.url }}" alt="{{ include.alt }}">
 
   </picture>
 
