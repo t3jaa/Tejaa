@@ -113,7 +113,7 @@ No culinary adventure is complete without indulging in some traditional sweets a
 
 #### 1. Coconut Barfi
 
-{% include figure.html url="coconut-barfi.jpg" alt=" Indulgent Coconut Barfi, a traditional sweet treat from Andaman-Nicobar."%}
+{% include figure.html url="coconut-barfi.jpeg" alt=" Indulgent Coconut Barfi, a traditional sweet treat from Andaman-Nicobar."%}
 
 Coconut Barfi is a delightful sweet that showcases the island's love for coconuts. Made from desiccated coconut, sugar, and condensed milk, this sweet treat is cooked until it reaches a fudgy consistency. Coconut Barfi represents the local cuisine in Andaman and Nicobar Islands, and the barfi is then cut into squares and garnished with nuts, adding a crunchy texture to the soft and chewy coconut base.
 
@@ -173,7 +173,7 @@ The Andaman and Nicobar Islands are home to warm and welcoming locals who are pr
 
 For food enthusiasts, exploring the local markets in the Andaman and Nicobar Islands is a feast for the senses. The markets offer a wide array of fresh produce, spices, and local delicacies that will leave you mesmerized. The **Aberdeen Bazaar** is a bustling market where you can find everything from fresh fruits and vegetables to spices and seafood, showcasing the famous food of Andaman and Nicobar Islands. 
 
-{% include figure.html url="aberdeen-bazaar.jpg" alt="Vibrant and bustling Aberdeen Bazaar in Andaman-Nicobar, offering local delicacies."%}
+{% include figure.html url="aberdeen-bazaar.jpeg" alt="Vibrant and bustling Aberdeen Bazaar in Andaman-Nicobar, offering local delicacies."%}
 
 The **Sagarika Government Emporium** is another popular destination, offering a range of local products, including spices, handicrafts, and food items that represent the local food of Andaman and Nicobar Islands. 
 Exploring these markets not only gives you the opportunity to taste and buy local ingredients but also allows you to interact with the friendly locals and learn more about their culinary traditions.
