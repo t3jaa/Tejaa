@@ -4,7 +4,7 @@ title: "Unusual Accommodations: 10 Quirky Places to Stay That Will Blow Your Min
 author: Tejaa
 categories: [Travel]
 tags: [accommodations, unique stays, travel experiences]
-image: assets/images/unusual-accommodations.jpg
+image: assets/images/thumbnails/unusual-accommodations.jpg
 description: "Step out of the ordinary and into the extraordinary with these 10 quirky and unique accommodations. From treehouses to underwater hotels, these places to stay will leave you with unforgettable memories."
 ---
 

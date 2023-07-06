@@ -4,7 +4,7 @@ title: "Top 10 Must-Visit Destinations for Adventure Travel"
 author: Tejaa
 categories: [Travel]
 tags: [Adventure, Destinations]
-image: assets/images/top-10-must-visit-destinations-for-adventure-travel.jpg
+image: assets/images/thumbnails/top-10-must-visit-destinations-for-adventure-travel.jpg
 description: "Discover the top 10 must-visit destinations for adventure travel and experience thrilling adventures around the world."
 ---
 

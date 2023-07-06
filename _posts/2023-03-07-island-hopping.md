@@ -4,7 +4,7 @@ title: "Island Hopping: Discovering Paradise in the Archipelagos"
 author: Tejaa
 categories: [Travel]
 tags: [island hopping, archipelagos, tropical destinations]
-image: assets/images/island-hopping.jpg
+image: assets/images/thumbnails/island-hopping.jpg
 description: "Embark on a journey of island hopping and explore the pristine beauty of the world's most captivating archipelagos. From the turquoise waters of the Maldives to the lush islands of Southeast Asia, these paradises offer a blend of natural wonders, vibrant cultures, and unforgettable experiences."
 ---
 

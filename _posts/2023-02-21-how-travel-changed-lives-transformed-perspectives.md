@@ -4,7 +4,7 @@ title: "How Travel Changed Lives and Transformed Perspectives"
 author: Tejaa
 categories: [Travel]
 tags: [Travel, Life Transformation, Perspectives, Personal Growth]
-image: assets/images/travel-changed-lives.jpg
+image: assets/images/thumbnails/travel-changed-lives.jpg
 description: "Explore the transformative power of travel as we delve into personal stories of how travel has changed lives and broadened perspectives. Discover the profound impact of cultural immersion, personal growth, and the importance of embracing new experiences."
 ---
 

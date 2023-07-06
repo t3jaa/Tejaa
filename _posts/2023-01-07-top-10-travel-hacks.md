@@ -4,7 +4,7 @@ title: "Top 10 Travel Hacks: Insider Tips to Enhance Your Journey"
 categories: [Travel]
 author: Tejaa
 tags: [Travel Hacks, Tips, Adventure]
-image: assets/images/top-10-travel-hacks.jpg
+image: assets/images/thumbnails/top-10-travel-hacks.jpg
 description: "Discover the top 10 travel hacks that will revolutionize the way you travel. From packing smart to saving money, these insider tips will enhance your journey and make your adventures even more memorable."
 ---
 

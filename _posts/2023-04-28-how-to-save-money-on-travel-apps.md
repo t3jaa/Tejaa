@@ -4,7 +4,7 @@ title: "How to Save Money on Travel: Important Apps to Use"
 author: Tejaa
 categories: [Travel, Budgeting, Apps]
 tags: [travel tips, money-saving, apps]
-image: assets/images/how-to-save-money-on-travel-apps.jpg
+image: assets/images/thumbnails/how-to-save-money-on-travel-apps.jpg
 description: "Discover the important apps that can help you save money on travel and make your budget go further."
 ---
 

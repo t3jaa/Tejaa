@@ -4,7 +4,7 @@ title: "Solo Travel: Embracing Independence and Discovering Yourself"
 author: Tejaa
 categories: [Travel]
 tags: [solo travel, independence, self-discovery]
-image: assets/images/solo-travel.jpg
+image: assets/images/thumbnails/solo-travel.jpg
 description: "Embark on a solo travel journey and unlock the power of independence and self-discovery. Discover the joys, challenges, and transformative experiences of traveling alone."
 ---
 

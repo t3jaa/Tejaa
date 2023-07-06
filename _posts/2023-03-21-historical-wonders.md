@@ -4,7 +4,7 @@ title: "Historical Wonders: Unveiling the Secrets of Ancient Civilizations"
 author: Tejaa
 categories: [Travel]
 tags: [historical wonders, ancient civilizations, archaeological sites]
-image: assets/images/historical-wonders.jpg
+image: assets/images/thumbnails/historical-wonders.jpg
 description: "Embark on a journey through time as we unveil the secrets of ancient civilizations and explore the remarkable historical wonders they left behind. From towering pyramids to majestic temples, these archaeological sites offer a glimpse into the ingenuity and achievements of our ancestors."
 featured: true
 hidden: true

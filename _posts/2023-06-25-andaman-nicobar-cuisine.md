@@ -4,7 +4,7 @@ title: "Delicious Andaman-Nicobar Cuisine: Explore Local and Famous Food"
 author: Tejaa
 categories: [Travel]
 tags: [Andaman-Nicobar Cuisine, Local Food, Famous Food, Travel Food, Food Exploration]
-image: assets/images/Delicious-Andaman-Nicobar-Cuisine.jpg
+image: assets/images/thumbnails/Delicious-Andaman-Nicobar-Cuisine.jpg
 description: "Discover the flavors of Andaman-Nicobar cuisine! Explore local and famous food, from traditional delicacies to culinary highlights. Indulge in a foodie's paradise!"
 ---
 

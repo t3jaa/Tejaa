@@ -4,7 +4,7 @@ title: "Unveiling the Secrets of Ultimate Travel Hacks: Get Ready to Explore Lik
 author: Tejaa
 categories: [Travel]
 tags: [travel tips, travel hacks, ultimate guide]
-image: assets/images/unveiling-the-secrets-of-ultimate-travel-hacks.jpg
+image: assets/images/thumbnails/unveiling-the-secrets-of-ultimate-travel-hacks.jpg
 description: "Discover the hidden secrets of ultimate travel hacks that will transform your trips into extraordinary adventures. Learn insider tips and tricks to travel like a pro and make the most of your wanderlust."
 ---
 

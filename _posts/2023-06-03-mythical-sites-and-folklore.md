@@ -4,7 +4,7 @@ title: "Unveiling Mythical Sites & Folklore Secrets"
 author: Tejaa
 categories: [Travel, Mythology]
 tags: [mythical sites, folklore, legends, cultural heritage]
-image: assets/images/mythical-sites-folklore.jpg
+image: assets/images/thumbnails/mythical-sites-folklore.jpg
 description: "Discover the hidden wonders of ancient legends and mystical sites worldwide. Dive into captivating folklore as we unveil their secrets and enchantment."
 ---
 

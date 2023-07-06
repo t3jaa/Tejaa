@@ -4,7 +4,7 @@ title: "Foodie's Delight: 10 Cities with the Most Mouthwatering Local Cuisines"
 author: Tejaa
 categories: [Food]
 tags: [food, travel, local cuisine]
-image: assets/images/foodies-delight.jpg
+image: assets/images/thumbnails/foodies-delight.jpg
 description: "Discover 10 cities around the world that offer a culinary adventure with their mouthwatering local cuisines. Get ready to indulge in a foodie's paradise!"
 ---
 

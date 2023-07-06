@@ -4,7 +4,7 @@ title: "Urban Exploration: Getting Lost in the Vibrant Streets of Global Cities"
 author: Tejaa
 categories: [Travel]
 tags: [urban exploration, global cities, city life]
-image: assets/images/urban-exploration.jpg
+image: assets/images/thumbnails/urban-exploration.jpg
 description: "Embark on a journey of urban exploration as you wander through the vibrant streets of global cities. From bustling metropolises to hidden corners, these urban jungles offer a kaleidoscope of cultures, cuisines, and captivating experiences."
 ---
 

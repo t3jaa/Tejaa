@@ -4,7 +4,7 @@ title: "Secret Gardens: Unveiling Enchanting Botanical Paradises Across the Glob
 author: Tejaa
 categories: [Travel]
 tags: [botanical gardens, nature, travel destinations]
-image: assets/images/secret-gardens.jpg
+image: assets/images/thumbnails/secret-gardens.jpg
 description: "Embark on a journey to discover the hidden gems of botanical paradises around the world. Explore enchanting secret gardens filled with colorful blooms, peaceful serenity, and awe-inspiring natural beauty."
 ---
 

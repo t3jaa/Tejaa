@@ -4,7 +4,7 @@ title: "Luxury Travel on a Budget: 10 Tips to Experience the High Life for Less"
 author: Tejaa
 categories: [Travel]
 tags: [luxury travel, budget travel, travel tips]
-image: assets/images/luxury-travel.jpg
+image: assets/images/thumbnails/luxury-travel.jpg
 description: "Discover 10 valuable tips to experience luxury travel on a budget. Learn how to enjoy the high life without breaking the bank."
 ---
 

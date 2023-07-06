@@ -4,7 +4,7 @@ title: "In the Footsteps of Literary Heroes: Exploring Destinations from Famous 
 author: Tejaa
 categories: [Travel]
 tags: [literary destinations, famous novels, book lovers]
-image: assets/images/literary-destinations.jpg
+image: assets/images/thumbnails/literary-destinations.jpg
 description: "Embark on a literary journey as we explore destinations from famous novels. Follow in the footsteps of literary heroes, discover enchanting settings, and bring your favorite books to life."
 ---
 

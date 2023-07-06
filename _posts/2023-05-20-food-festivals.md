@@ -4,7 +4,7 @@ title: "Food Festivals Around the Globe: Indulge in Delicious Celebrations"
 author: Tejaa
 categories: [Food]
 tags: [food festivals, global cuisine, culinary events]
-image: assets/images/food-festivals.jpg
+image: assets/images/thumbnails/food-festivals.jpg
 description: "Immerse yourself in a world of flavors at food festivals around the globe. Discover delicious celebrations that showcase the best of local and international cuisine."
 ---
 

@@ -4,7 +4,7 @@ title: "The World's Most Instagrammable Destinations: Picture-Perfect Spots"
 author: Tejaa
 categories: [Travel]
 tags: [instagrammable destinations, travel photography, social media]
-image: assets/images/instagrammable-destinations.jpg
+image: assets/images/thumbnails/instagrammable-destinations.jpg
 description: "Discover the world's most instagrammable destinations and capture picture-perfect moments that will make your followers green with envy."
 ---
 

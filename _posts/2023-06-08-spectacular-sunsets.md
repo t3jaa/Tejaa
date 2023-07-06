@@ -4,7 +4,7 @@ title: "Spectacular Sunsets: 10 Destinations Where the Sky Paints Its Masterpiec
 author: Tejaa
 categories: [Travel]
 tags: [sunsets, travel destinations, natural beauty]
-image: assets/images/spectacular-sunsets.jpg
+image: assets/images/thumbnails/spectacular-sunsets.jpg
 description: "Discover 10 breathtaking destinations where the sky paints its masterpieces during sunset. From serene beaches to majestic mountains, witness nature's most stunning light show."
 ---
 

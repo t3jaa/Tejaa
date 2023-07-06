@@ -4,7 +4,7 @@ title: "The Ultimate Guide to Travel Essentials for Women: Pack Like a Pro!"
 author: Clara
 categories: [Travel]
 tags: [Travel Essentials, Women's Packing Guide, Travel Safety, Electronics and Gadgets, Fashion Tips for Travel]
-image: assets/images/The Ultimate Travel Essentials Guide for Women.jpg
+image: assets/images/thumbnails/The Ultimate Travel Essentials Guide for Women.jpg
 description: "Discover the ultimate travel essentials guide for women! Pack like a pro with safety essentials, electronics, packing strategies, fashion tips, and more."
 ---
 

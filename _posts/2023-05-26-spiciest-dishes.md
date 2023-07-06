@@ -4,7 +4,7 @@ title: "The Ultimate Food Challenge: 10 Spiciest Dishes from Around the World"
 author: Tejaa
 categories: [Food]
 tags: [food, spicy dishes, global cuisine]
-image: assets/images/spiciest-dishes.jpg
+image: assets/images/thumbnails/spiciest-dishes.jpg
 description: "Prepare your taste buds for a fiery adventure! Explore 10 of the spiciest dishes from around the world and test your tolerance for heat."
 ---
 

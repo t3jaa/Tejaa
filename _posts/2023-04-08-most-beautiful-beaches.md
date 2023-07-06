@@ -4,7 +4,7 @@ title: "Discovering the Most Beautiful Beaches Around the World"
 author: Tejaa
 categories: [Travel]
 tags: [Beaches, Travel Destinations, Nature]
-image: assets/images/most-beautiful-beaches.jpg
+image: assets/images/thumbnails/most-beautiful-beaches.jpg
 description: "Embark on a journey to discover the most beautiful beaches around the world. From pristine white sands to crystal-clear turquoise waters, these stunning coastal destinations will leave you in awe of nature's beauty."
 ---
 

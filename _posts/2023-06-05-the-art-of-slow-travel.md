@@ -4,7 +4,7 @@ title: "The Art of Slow Travel: Embracing the Beauty of Unhurried Journeys"
 author: Tejaa
 categories: [Travel]
 tags: [slow travel, mindful travel, travel experiences]
-image: assets/images/slow-travel.jpg
+image: assets/images/thumbnails/slow-travel.jpg
 description: "Discover the art of slow travel and immerse yourself in the beauty of unhurried journeys. Learn how to embrace a mindful approach to travel, savor every moment, and create meaningful connections along the way."
 ---
 

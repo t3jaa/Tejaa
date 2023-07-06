@@ -4,7 +4,7 @@ title: "Sustainable Tourism and Responsible Travel Practices"
 author: Tejaa
 categories: [Travel]
 tags: [Sustainable Tourism, Responsible Travel, Eco-friendly Travel, Ethical Tourism, Green Travel]
-image: assets/images/sustainable-tourism.jpg
+image: assets/images/thumbnails/sustainable-tourism.jpg
 description: "Discover the importance of sustainable tourism and learn about responsible travel practices that help preserve our planet. Find out how you can contribute to sustainable travel and make a positive impact on the environment and local communities."
 ---
 
