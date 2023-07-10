@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Must Read: Honest Hunton Park Hotel Review"
-author: Tejaa
+author: Clara
 categories: [Travel]
 tags: [Hunton Park Hotel, Hotel Review, Travel Tips]
 image: assets/images/thumbnails/hunton-park-hotel.jpg
