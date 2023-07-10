@@ -3,7 +3,7 @@ name: "WanderingClub"
 title: "WanderingClub"
 description: "Explore the world through captivating travel experiences and inspiring destinations."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'favicon.ico'
 baseurl: ''
 google_analytics: 'G-98D8W3TPNW'
 disqus: 'wanderingclub'
