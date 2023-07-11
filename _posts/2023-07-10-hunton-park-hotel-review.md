@@ -102,8 +102,6 @@ Ultimately, the choice between hotels will depend on your preferences and priori
 
 To address any lingering questions you may have, here are some frequently asked questions about the Hunton Park Hotel:
 
-{% include figure.html url="hunton-park-hotel-3.jpg" alt="hunton park hotel trees" %}
-
 **Q: Is breakfast included in the room rate?**
 A: Yes, breakfast is included for all guests staying at the hotel.
 
