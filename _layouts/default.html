@@ -168,19 +168,26 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                Copyright ©{{site.time|date:"%Y"}}{{site.name}} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 Follow us:
                 <a target="_blank" href="https://www.youtube.com/@TheWanderingClub" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
                 <a target="_blank" href="https://www.instagram.com/TheWand3ringClub" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
                 <a target="_blank" href="https://www.facebook.com/TheWand3ringClub" rel="noopener noreferrer"><i class="fab fa-facebook"></i></a>
+                
+                <!-- Add Privacy Policy and Contact Us links -->
+                <span class="footer-links">
+                    | <a href="{{site.baseurl}}/privacy-policy/">Privacy Policy</a> |
+                    <a href="{{site.baseurl}}/contact-us/">Contact Us</a>
+                </span>
             </div>
         </div>
     </div>
 </footer>
 <!-- End Footer
 ================================================== -->
+
 
 </div> <!-- /.site-content -->
 

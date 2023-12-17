@@ -4,7 +4,7 @@ gem 'jekyll', '4.3.2'
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 # To stage all changes at once in Git use: git add .
-# After staging the changes, ymake commit using: git commit 'Comment'
+# After staging the changes, make commit using: git commit 'Comment'
 #     bundle exec jekyll serve
 # Use this for images: {% include figure.html url="image.jpg" alt="Image alt text." caption="Caption text" %}
 
