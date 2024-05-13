@@ -6,8 +6,6 @@ categories: [Travel]
 tags: [travel hacks, travel tips, travel tricks]
 image: assets/images/thumbnails/travel-hacks.jpg
 description: "Discover 15 travel hacks and expert tips to make your trips easier, more efficient, and enjoyable. From packing smart to navigating airports, these travel hacks will transform the way you explore the world."
-featured: true
-hidden: true
 ---
 
 ## Introduction
